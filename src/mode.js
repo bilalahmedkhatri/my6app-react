@@ -8,6 +8,7 @@ function Mode () {
         <div className={`${isday ? 'daymode' : 'nightmode'}`}>
             <br/>
             <span>
+                <h2>INCREMENT "&" DECREMENT</h2>
                 <p>This Number shows Increment and Decrement {count}</p>
                 <button onClick={()=> setCount(++count)}>Increment</button>
                 &nbsp;
