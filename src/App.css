@@ -1,0 +1,14 @@
+.daymode {
+  background: white;
+  color: black;
+}
+
+.nightmode {
+  background: rgb(17, 16, 16);
+  color: white;  
+}
+
+.main {
+  height: 250px;
+  width: 400px;
+}
